@@ -25,3 +25,4 @@ function xss_comment_protection($comment_content) {
 	
 	return $comment_content;
 }
+?>
