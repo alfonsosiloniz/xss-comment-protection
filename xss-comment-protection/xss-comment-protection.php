@@ -1,5 +1,5 @@
 <?php
- * 
+/* 
  * Plugin Name: XSS Comment Protection
  * Version: 1.0
  * Plugin URI: http://blog.alfonsosiloniz.es/
