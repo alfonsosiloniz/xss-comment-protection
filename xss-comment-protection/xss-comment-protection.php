@@ -1,4 +1,5 @@
-n Name: XSS Comment Protection
+<?* 
+ * Plugin Name: XSS Comment Protection
  * Version: 1.0
  * Plugin URI: http://blog.alfonsosiloniz.es/
  * Description: Avoid the insertion in DDBB of a comment bigger than 64KB. In fact, limit to an standard human text for a comment (10000).
